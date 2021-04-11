@@ -45,3 +45,10 @@ body{
     padding: 1em;
 
 }
+
+#container #footer
+{
+    background: blue;
+    color: white;
+    text-align: center;
+}
